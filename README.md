@@ -1,129 +1,116 @@
 # Raed Karkoub
 
-![header](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=E07B54&center=true&vCenter=true&width=700&lines=Builder;Data+Systems;Turning+ideas+into+products)
+![header](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=E07B54&center=true&vCenter=true&width=800&lines=Builder;Finding+better+ways+to+do+things;Turning+ideas+into+useful+systems)
 
-I build things that actually get used.
+I’m someone who likes finding solutions.
 
-Most of what I work on starts messy — scattered data, inefficient workflows, broken experiences — and I turn it into something clean, fast, and useful. I’m especially interested in how far you can push things with just a computer.
+What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. A lot of the problems I’m drawn to are messy at first; scattered information, inefficient processes, clunky experiences. I enjoy figuring out how to turn them into something practical, fast, and genuinely useful.
 
----
-
-## 🚀 Current Focus
-
-- Student housing platform (CampusCribs)
-- Financial document intelligence systems
-- Real estate data + pricing tools
+I studied Applied Data Science at Penn State because I was drawn to the idea of using statistical methods to build fast, predictive systems. Combined with my drive to innovate and build, it opens the door to creating tools that can actually make an impact.
 
 ---
 
-## 🏠 CampusCribs
+## What I'm Building
 
-![CampusCribs Demo](https://via.placeholder.com/900x400?text=Replace+with+GIF)
+- products that solve real, specific problems
+- data systems that make messy information usable
+- tools that save time, reduce friction, and actually get used
 
-**Problem**  
-Student housing is fragmented. Listings are scattered, roommate matching is unreliable, and communication with property managers is painful.
+---
 
-**Solution**  
-A unified platform combining listings, roommate discovery, and direct messaging.
+## Selected Work
 
-**Impact**
-- Built for 10K+ listings  
-- Multi-role system (students, managers, listers)  
-- Real-time messaging + compatibility scoring  
+### 🏠 CampusCribs
+
+
+**The problem**  
+Student housing is still fragmented across too many disconnected platforms. Listings live in one place, roommate searches happen somewhere else, and communication with property managers is often slow or nonexistent.
+
+**What I built**  
+CampusCribs is a student housing marketplace designed to bring those pieces together in one place: listings, roommate discovery, and direct communication.
+
+**What makes it interesting**  
+- designed around three core user types: students, listers, and property managers  
+- built messaging, search, filtering, and compatibility-focused features into one workflow  
+- structured to scale cleanly as listings, users, and engagement grow  
 
 **Stack**  
-FlutterFlow · Firebase · Python  
+FlutterFlow · Firebase · Python
 
 ---
 
-## 📄 Financial Document Parser
+### 📄 Financial Document Parser
 
-![Parser Demo](https://via.placeholder.com/900x400?text=Replace+with+GIF)
 
-**Problem**  
-Financial statements are inconsistent and difficult to analyze at scale.
+**The problem**  
+Financial statements contain valuable data, but they’re often buried inside inconsistent, messy PDF formats that are difficult to parse reliably.
 
-**Solution**  
-A hybrid LLM + rule-based pipeline that converts messy PDFs into structured datasets.
+**What I built**  
+A hybrid parsing pipeline that combines LLM-based structure discovery with rule-based extraction to turn complex brokerage statements into clean, analysis-ready datasets.
 
-**Impact**
-- 99.2% extraction accuracy  
-- 99.8% reconciliation accuracy  
-- Handles multi-page, inconsistent formats  
+**What makes it interesting**  
+- built to handle multi-page documents, shifting formats, and noisy extraction output  
+- uses state-based parsing to track sections, account context, and transaction types  
+- reached 99.2% row-level extraction accuracy and 99.8% reconciliation accuracy  
 
 **Stack**  
-Python · pdfplumber · LLMs  
+Python · pdfplumber · LLMs
 
 ---
 
-## 🗽 NYC Price Intelligence
+### 🗽 NYC Price Intelligence
 
-![NYC Demo](https://via.placeholder.com/900x400?text=Replace+with+GIF)
 
-**Problem**  
-Real estate data is fragmented and hidden behind expensive APIs.
+**The problem**  
+Rental data is scattered, inconsistent, and often locked behind platforms that are better at showing listings than helping people actually analyze the market.
 
-**Solution**  
-A scraping + analytics pipeline that aggregates listings and surfaces real pricing insights.
+**What I built**  
+A scraping and analytics pipeline that collects rental data across NYC and turns it into a structured dataset for pricing analysis, comparisons, and trend discovery.
 
-**How it works**
-- Crawl4AI-based scraping system  
-- Handles anti-bot protection via persistent Cloudflare session cookies  
-- Normalizes multi-source data into a unified dataset  
-
-**Output**
-- price trends  
-- anomaly detection  
-- neighborhood comparisons  
+**What makes it interesting**  
+- uses Crawl4AI to navigate dynamic listing environments  
+- maintains persistent session state to handle anti-bot friction and improve collection reliability  
+- normalizes listings across sources so they can be compared and analyzed together  
+- built to support price trends, neighborhood comparisons, and anomaly detection  
 
 **Stack**  
-Python · Crawl4AI · Playwright · Pandas · SQL  
+Python · Crawl4AI · Playwright · Pandas · SQL
 
 ---
 
-## 🧵 Garment Retrieval Engine
+### 🧵 Garment Retrieval Engine
 
-![Garment Demo](https://via.placeholder.com/900x400?text=Replace+with+GIF)
 
-**Problem**  
-Searching design datasets using keywords misses semantic meaning.
+**The problem**  
+Traditional keyword search struggles when users want to find designs based on meaning, style, or similarity rather than exact metadata.
 
-**Solution**  
-Embedding-based retrieval system for natural language search.
+**What I built**  
+A semantic retrieval engine that lets users search garment design files using natural language.
 
-**Impact**
-- 25K+ designs indexed  
-- fast top-k similarity search  
-- real-time API system  
+**What makes it interesting**  
+- processed and indexed 25K+ design files  
+- used dense embeddings and FAISS for fast similarity-based retrieval  
+- designed for real-time querying through an API-backed search workflow  
 
 **Stack**  
-Python · SentenceTransformers · FAISS · FastAPI  
+Python · SentenceTransformers · FAISS · FastAPI
 
 ---
 
-## 🧠 Experience
+## Experience
 
 **Noema Consulting**  
 AI / Data Systems  
-- built PII-safe ingestion pipelines  
-- developed backend + document intelligence tools  
+Built and improved backend tools, document intelligence workflows, and PII-safe ingestion systems for enterprise-facing use cases.
 
 **Rice University**  
-Robotics + ML  
-- predictive modeling with 90%+ accuracy  
+Robotics / Machine Learning  
+Worked on predictive modeling for mechanical systems using simulation and time-series features, reaching 90%+ accuracy.
 
 ---
 
-## 🛠️ Stack
+## Contact
 
-Python · FastAPI · SQL  
-Pandas · PyTorch · FAISS  
-LLMs · RAG pipelines  
-Firebase · Docker  
-
----
-
-## 📫 Contact
-
-LinkedIn: https://linkedin.com/in/raed-karkoub  
+![cool gif](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif) 
+linkedin.com/in/raed-karkoub  
 Email: rkarkoub03@gmail.com
