@@ -40,36 +40,13 @@
 
 I’m someone who likes finding solutions.
 
-I’m drawn to problems that are messy at the start — scattered information, inefficient workflows, and clunky systems that don’t quite work together. The kind of problems where the solution isn’t obvious, but once it’s built, it feels simple.
-
-My focus is building systems that take that mess and turn it into something structured, fast, and actually useful.
+I’m drawn to problems that are messy and open-ended at the start; scattered information, inefficient workflows, and clunky systems that don’t quite work together. The kind of problems where the solution isn’t obvious, but once it’s built, it feels simple.
 
 I studied Applied Data Science at Penn State, where I focused on building predictive systems. Since then, I’ve leaned heavily into backend engineering and product-driven system design.
 
 ---
 
 ## What I'm Building
-
-<table>
-<tr>
-<td width="33%" align="center">
-<strong>Products</strong><br>
-<sub>Tools that solve real problems</sub>
-</td>
-<td width="33%" align="center">
-<strong>Data Systems</strong><br>
-<sub>Making messy data usable</sub>
-</td>
-<td width="33%" align="center">
-<strong>Practical Software</strong><br>
-<sub>Fast, scalable, and useful</sub>
-</td>
-</tr>
-</table>
-
----
-
-## Selected Work
 
 <table>
 <tr>
