@@ -46,7 +46,7 @@ I studied Applied Data Science at Penn State, where I focused on building predic
 
 ---
 
-## What I'm Building
+## What I've Built
 
 <table>
 <tr>
