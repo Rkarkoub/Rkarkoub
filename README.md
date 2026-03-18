@@ -42,7 +42,7 @@ I’m someone who likes finding solutions.
 
 I’m drawn to problems that are messy and open-ended at the start; scattered information, inefficient workflows, and clunky systems that don’t quite work together. The kind of problems where the solution isn’t obvious, but once it’s built, it feels simple.
 
-I studied Applied Data Science at Penn State, where I focused on building predictive systems. Since then, I’ve leaned heavily into backend engineering and product-driven system design.
+I studied Applied Data Science at Penn State, where I focused on building predictive systems. Since then, I’ve expanded into backend engineering and product development, with the goal of integrating data-driven systems directly into the products I build.
 
 ---
 
