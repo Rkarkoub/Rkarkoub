@@ -1,10 +1,6 @@
-<h1>Raed Karkoub</h1>
-
-<p>
-  Data Systems · Backend · Product Builder ·
-  <a href="https://linkedin.com/in/raed-karkoub">LinkedIn</a> ·
-  <a href="mailto:rkarkoub03@gmail.com">Email</a>
-</p>
+<h1>
+  Raed Karkoub · <span style="font-weight: 400;">Data Systems · Backend · Product Builder</span>
+</h1>
 
 <p>
   <a href="https://linkedin.com/in/raed-karkoub">
@@ -15,14 +11,19 @@
   </a>
 </p>
 
+<h2>About Me</h2>
 
-I’m someone who likes finding solutions.
+<p>
+  I’m someone who likes finding solutions.
+</p>
 
-What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. A lot of the problems I’m drawn to are messy at first; scattered information, inefficient processes, clunky experiences. I enjoy figuring out how to turn them into something practical, fast, and genuinely useful.
+<p>
+  What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. A lot of the problems I’m drawn to are messy at first; scattered information, inefficient processes, clunky experiences. I enjoy figuring out how to turn them into something practical, fast, and genuinely useful.
+</p>
 
-I studied Applied Data Science at Penn State because I was drawn to the idea of using statistical methods to build fast, predictive systems. Combined with my drive to innovate and build, it opens the door to creating tools that can actually make an impact.
-
----
+<p>
+  I studied Applied Data Science at Penn State because I was drawn to the idea of using statistical methods to build fast, predictive systems. Combined with my drive to innovate and build, it opens the door to creating tools that can actually make an impact.
+</p>
 
 ## What I'm Building
 
