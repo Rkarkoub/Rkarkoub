@@ -1,12 +1,17 @@
-# Raed Karkoub
+<h1>Raed Karkoub</h1>
+
+<p>
+  Data Systems · Backend · Product Builder ·
+  <a href="https://linkedin.com/in/raed-karkoub">LinkedIn</a> ·
+  <a href="mailto:rkarkoub03@gmail.com">Email</a>
+</p>
 
 <p>
   <a href="https://linkedin.com/in/raed-karkoub">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45"/>
   </a>
-  <a href="mailto:rkarkoub03@gmail.com" style="margin-left: 10px; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="55" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px; vertical-align: middle;">rkarkoub03@gmail.com</span>
+  <a href="mailto:rkarkoub03@gmail.com" style="margin-left: 10px;">
+    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="45"/>
   </a>
 </p>
 
