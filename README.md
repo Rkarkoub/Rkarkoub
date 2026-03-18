@@ -1,6 +1,8 @@
 <h1 style="margin-bottom: 10px;">
-  Raed Karkoub
-  <span style="font-size: 16px; font-weight: 400; color: #555;">
+  <strong style="font-size: 34px;">
+    Raed Karkoub
+  </strong>
+  <span style="font-size: 15px; font-weight: 400; color: #777;">
     · Data Systems · Backend · Product Builder
   </span>
 </h1>
