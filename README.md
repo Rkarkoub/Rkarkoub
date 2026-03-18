@@ -71,68 +71,117 @@ I studied Applied Data Science at Penn State because I was drawn to the idea of 
 
 ## Selected Work
 
+## Selected Work
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 CampusCribs</h3>
       <strong>Student housing marketplace</strong><br/><br/>
-      Built to bring listings, roommate discovery, and direct communication into one place instead of splitting the experience across multiple platforms.<br/><br/>
+
+      <strong>Problem</strong><br/>
+      Student housing is fragmented across listings, roommate search, and communication platforms. Users are forced to switch between tools, lose context, and deal with slow or disconnected workflows.<br/><br/>
+
+      <strong>Solution</strong><br/>
+      Built a unified platform that combines listings, roommate matching, and direct messaging into a single system designed around how students actually search and decide.<br/><br/>
+
+      <strong>Impact</strong><br/>
+      Reduced friction across the full flow (discovery → matching → communication), creating a more continuous and usable housing experience.<br/><br/>
+
       <strong>Stack</strong><br/>
       FlutterFlow · Firebase · Python
+
       <br/><br/>
       <details>
-        <summary><strong>More details</strong></summary>
+        <summary><strong>Inside the system</strong></summary>
         <br/>
-        Designed around students, listers, and property managers.<br/>
-        Built messaging, search, filtering, and compatibility-oriented flows into one system.<br/>
-        Structured the product so it can grow cleanly with listings, users, and engagement.
+        • role-based architecture for students, listers, and property managers<br/>
+        • compatibility-driven roommate matching logic<br/>
+        • messaging system tightly integrated with listing interactions<br/>
+        • structured backend to support scaling listings, users, and engagement<br/>
       </details>
     </td>
+
     <td width="50%" valign="top">
       <h3>📄 Financial Document Parser</h3>
       <strong>Hybrid PDF extraction pipeline</strong><br/><br/>
-      Built a parsing workflow that combines LLM-guided structure discovery with rule-based extraction to turn complex financial statements into analysis-ready data.<br/><br/>
+
+      <strong>Problem</strong><br/>
+      Financial statements contain high-value data but are locked inside inconsistent, multi-page PDFs that break traditional parsing approaches.<br/><br/>
+
+      <strong>Solution</strong><br/>
+      Built a hybrid pipeline that uses LLMs to understand document structure and deterministic parsing logic to extract structured data reliably.<br/><br/>
+
+      <strong>Impact</strong><br/>
+      Converted messy, unstructured documents into analysis-ready datasets with high accuracy, enabling reliable downstream analytics.<br/><br/>
+
       <strong>Stack</strong><br/>
       Python · pdfplumber · LLMs
+
       <br/><br/>
       <details>
-        <summary><strong>More details</strong></summary>
+        <summary><strong>Inside the system</strong></summary>
         <br/>
-        Designed for multi-page statements, shifting layouts, and noisy PDF extraction output.<br/>
-        Used state-based parsing to track section changes, account context, and transaction types.<br/>
-        Reached 99.2% row-level extraction accuracy and 99.8% reconciliation accuracy.
+        • LLM-based structure discovery to detect sections and layouts<br/>
+        • state-based parsing to track account context and transitions<br/>
+        • custom handlers for trades, transfers, and summary sections<br/>
+        • achieved 99.2% row-level accuracy and 99.8% reconciliation accuracy<br/>
       </details>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🗽 NYC Price Intelligence</h3>
-      <strong>Rental scraping and analytics pipeline</strong><br/><br/>
-      Built a data collection and normalization workflow for NYC rental listings to support pricing analysis, neighborhood comparisons, and trend discovery.<br/><br/>
+      <strong>Rental data pipeline + analytics</strong><br/><br/>
+
+      <strong>Problem</strong><br/>
+      Rental data is scattered across platforms, inconsistent in structure, and difficult to analyze in a unified way.<br/><br/>
+
+      <strong>Solution</strong><br/>
+      Built a scraping and normalization pipeline that collects listings across sources and transforms them into a clean, structured dataset.<br/><br/>
+
+      <strong>Impact</strong><br/>
+      Enabled cross-platform comparisons, pricing analysis, and trend discovery that wouldn’t be possible with isolated data sources.<br/><br/>
+
       <strong>Stack</strong><br/>
       Python · Crawl4AI · Playwright · Pandas · SQL
+
       <br/><br/>
       <details>
-        <summary><strong>More details</strong></summary>
+        <summary><strong>Inside the system</strong></summary>
         <br/>
-        Designed to work through dynamic listing environments and anti-bot friction.<br/>
-        Maintained persistent session state to improve collection reliability.<br/>
-        Normalized listings across sources so they can be compared and modeled together.
+        • dynamic scraping across JS-heavy listing platforms<br/>
+        • persistent browser sessions to handle anti-bot friction<br/>
+        • cross-source normalization for consistent schema<br/>
+        • pipeline designed for analytics and modeling use cases<br/>
       </details>
     </td>
+
     <td width="50%" valign="top">
       <h3>🧵 Garment Retrieval Engine</h3>
-      <strong>Semantic search for design files</strong><br/><br/>
-      Built a retrieval engine that lets users search garment designs by meaning, style, and similarity rather than exact keywords alone.<br/><br/>
+      <strong>Semantic search system</strong><br/><br/>
+
+      <strong>Problem</strong><br/>
+      Keyword-based search fails when users want to find designs based on meaning, style, or similarity rather than exact metadata.<br/><br/>
+
+      <strong>Solution</strong><br/>
+      Built a semantic retrieval engine using embeddings and vector search to enable natural language queries.<br/><br/>
+
+      <strong>Impact</strong><br/>
+      Enabled fast, intuitive search across thousands of design files using meaning instead of exact matches.<br/><br/>
+
       <strong>Stack</strong><br/>
       Python · SentenceTransformers · FAISS · FastAPI
+
       <br/><br/>
       <details>
-        <summary><strong>More details</strong></summary>
+        <summary><strong>Inside the system</strong></summary>
         <br/>
-        Processed and indexed 25K+ design files.<br/>
-        Used dense embeddings and FAISS for fast similarity search.<br/>
-        Designed for real-time querying through an API-backed retrieval workflow.
+        • processed and indexed 25K+ garment design files<br/>
+        • dense vector embeddings for semantic similarity<br/>
+        • FAISS-powered retrieval for low-latency queries<br/>
+        • API-based architecture for real-time search workflows<br/>
       </details>
     </td>
   </tr>
