@@ -3,7 +3,7 @@
     Raed Karkoub
   </strong>
   <span style="font-size: 15px; font-weight: 400; color: #777;">
-    · Data Systems · Backend · Product Builder
+    | Data Systems · Backend · Product Builder
   </span>
 </h1>
 
