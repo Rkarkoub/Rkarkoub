@@ -1,4 +1,7 @@
-# Raed Karkoub
+# Raed Karkoub 
+<a href="https://linkedin.com/in/raed-karkoub" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/>
+</a>
 
 ![header](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=E07B54&center=true&vCenter=true&width=800&lines=Builder;Finding+better+ways+to+do+things;Turning+ideas+into+useful+systems)
 
@@ -111,6 +114,5 @@ Worked on predictive modeling for mechanical systems using simulation and time-s
 
 ## Contact
 
-![cool gif](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif) 
 linkedin.com/in/raed-karkoub  
 Email: rkarkoub03@gmail.com
