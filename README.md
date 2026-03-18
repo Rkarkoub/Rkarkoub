@@ -28,8 +28,7 @@
 
 <p align="center">
   <a href="#about-me">About</a> ·
-  <a href="#what-im-building">What I'm Building</a> ·
-  <a href="#selected-work">Selected Work</a> ·
+  <a href="#what-ive-built">What I'm Building</a> ·
   <a href="#experience">Experience</a> ·
   <a href="#contact">Contact</a>
 </p>
