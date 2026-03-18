@@ -1,10 +1,9 @@
-<h1 style="margin-bottom: 5px;">
+<h1 style="margin-bottom: 10px;">
   Raed Karkoub
+  <span style="font-size: 16px; font-weight: 400; color: #555;">
+    · Data Systems · Backend · Product Builder
+  </span>
 </h1>
-
-<p style="margin-top: 0; font-size: 16px; font-weight: 400; color: #555;">
-  Data Systems · Backend · Product Builder
-</p>
 
 <p>
   <a href="https://linkedin.com/in/raed-karkoub">
