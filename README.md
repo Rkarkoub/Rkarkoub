@@ -1,135 +1,165 @@
-<h1 style="margin-bottom: 10px;">
-  <strong style="font-size: 34px;">
-    Raed Karkoub
-  </strong>
-  <span style="font-size: 15px; font-weight: 400; color: #777;">
-    | Data Systems · Backend · Product Builder
-  </span>
+<h1 align="center">
+  Raed Karkoub
 </h1>
 
-<p>
+<p align="center">
+  <strong>Data Systems · Backend · Product Builder</strong>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/raed-karkoub">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48" />
   </a>
-  <a href="mailto:rkarkoub03@gmail.com" style="margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="45"/>
+  <a href="mailto:rkarkoub03@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" width="48" />
   </a>
 </p>
 
-<h2>About Me</h2>
-
-<p>
-  I’m someone who likes finding solutions.
+<p align="center">
+  I build practical systems that turn messy information into usable products.
 </p>
 
-<p>
-  What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. A lot of the problems I’m drawn to are messy at first; scattered information, inefficient processes, clunky experiences. I enjoy figuring out how to turn them into something practical, fast, and genuinely useful.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Builder-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Systems-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Workflows-0F766E?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product-Minded-7C3AED?style=for-the-badge" />
 </p>
 
-<p>
-  I studied Applied Data Science at Penn State because I was drawn to the idea of using statistical methods to build fast, predictive systems. Combined with my drive to innovate and build, it opens the door to creating tools that can actually make an impact.
+---
+
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#what-im-building">What I'm Building</a> ·
+  <a href="#selected-work">Selected Work</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#contact">Contact</a>
 </p>
+
+---
+
+## About Me
+
+I’m someone who likes finding solutions.
+
+What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. I’m especially drawn to messy problems at the start: scattered information, inefficient processes, and clunky experiences that need structure.
+
+I studied Applied Data Science at Penn State because I was drawn to the idea of using statistical methods to build fast, predictive systems. Combined with my drive to innovate and build, that foundation pushed me toward creating systems that are practical, scalable, and actually useful.
+
+---
 
 ## What I'm Building
 
-- products that solve real, specific problems
-- data systems that make messy information usable
-- tools that save time, reduce friction, and actually get used
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Products</strong><br/>
+      Tools that solve real, specific problems.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Data Systems</strong><br/>
+      Pipelines and workflows that make messy information usable.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Useful Software</strong><br/>
+      Things that save time, reduce friction, and actually get used.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Selected Work
 
-### 🏠 CampusCribs
-
-
-**The problem**  
-Student housing is still fragmented across too many disconnected platforms. Listings live in one place, roommate searches happen somewhere else, and communication with property managers is often slow or nonexistent.
-
-**What I built**  
-CampusCribs is a student housing marketplace designed to bring those pieces together in one place: listings, roommate discovery, and direct communication.
-
-**What makes it interesting**  
-- designed around three core user types: students, listers, and property managers  
-- built messaging, search, filtering, and compatibility-focused features into one workflow  
-- structured to scale cleanly as listings, users, and engagement grow  
-
-**Stack**  
-FlutterFlow · Firebase · Python
-
----
-
-### 📄 Financial Document Parser
-
-
-**The problem**  
-Financial statements contain valuable data, but they’re often buried inside inconsistent, messy PDF formats that are difficult to parse reliably.
-
-**What I built**  
-A hybrid parsing pipeline that combines LLM-based structure discovery with rule-based extraction to turn complex brokerage statements into clean, analysis-ready datasets.
-
-**What makes it interesting**  
-- built to handle multi-page documents, shifting formats, and noisy extraction output  
-- uses state-based parsing to track sections, account context, and transaction types  
-- reached 99.2% row-level extraction accuracy and 99.8% reconciliation accuracy  
-
-**Stack**  
-Python · pdfplumber · LLMs
-
----
-
-### 🗽 NYC Price Intelligence
-
-
-**The problem**  
-Rental data is scattered, inconsistent, and often locked behind platforms that are better at showing listings than helping people actually analyze the market.
-
-**What I built**  
-A scraping and analytics pipeline that collects rental data across NYC and turns it into a structured dataset for pricing analysis, comparisons, and trend discovery.
-
-**What makes it interesting**  
-- uses Crawl4AI to navigate dynamic listing environments  
-- maintains persistent session state to handle anti-bot friction and improve collection reliability  
-- normalizes listings across sources so they can be compared and analyzed together  
-- built to support price trends, neighborhood comparisons, and anomaly detection  
-
-**Stack**  
-Python · Crawl4AI · Playwright · Pandas · SQL
-
----
-
-### 🧵 Garment Retrieval Engine
-
-
-**The problem**  
-Traditional keyword search struggles when users want to find designs based on meaning, style, or similarity rather than exact metadata.
-
-**What I built**  
-A semantic retrieval engine that lets users search garment design files using natural language.
-
-**What makes it interesting**  
-- processed and indexed 25K+ design files  
-- used dense embeddings and FAISS for fast similarity-based retrieval  
-- designed for real-time querying through an API-backed search workflow  
-
-**Stack**  
-Python · SentenceTransformers · FAISS · FastAPI
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 CampusCribs</h3>
+      <strong>Student housing marketplace</strong><br/><br/>
+      Built to bring listings, roommate discovery, and direct communication into one place instead of splitting the experience across multiple platforms.<br/><br/>
+      <strong>Stack</strong><br/>
+      FlutterFlow · Firebase · Python
+      <br/><br/>
+      <details>
+        <summary><strong>More details</strong></summary>
+        <br/>
+        Designed around students, listers, and property managers.<br/>
+        Built messaging, search, filtering, and compatibility-oriented flows into one system.<br/>
+        Structured the product so it can grow cleanly with listings, users, and engagement.
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Financial Document Parser</h3>
+      <strong>Hybrid PDF extraction pipeline</strong><br/><br/>
+      Built a parsing workflow that combines LLM-guided structure discovery with rule-based extraction to turn complex financial statements into analysis-ready data.<br/><br/>
+      <strong>Stack</strong><br/>
+      Python · pdfplumber · LLMs
+      <br/><br/>
+      <details>
+        <summary><strong>More details</strong></summary>
+        <br/>
+        Designed for multi-page statements, shifting layouts, and noisy PDF extraction output.<br/>
+        Used state-based parsing to track section changes, account context, and transaction types.<br/>
+        Reached 99.2% row-level extraction accuracy and 99.8% reconciliation accuracy.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗽 NYC Price Intelligence</h3>
+      <strong>Rental scraping and analytics pipeline</strong><br/><br/>
+      Built a data collection and normalization workflow for NYC rental listings to support pricing analysis, neighborhood comparisons, and trend discovery.<br/><br/>
+      <strong>Stack</strong><br/>
+      Python · Crawl4AI · Playwright · Pandas · SQL
+      <br/><br/>
+      <details>
+        <summary><strong>More details</strong></summary>
+        <br/>
+        Designed to work through dynamic listing environments and anti-bot friction.<br/>
+        Maintained persistent session state to improve collection reliability.<br/>
+        Normalized listings across sources so they can be compared and modeled together.
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧵 Garment Retrieval Engine</h3>
+      <strong>Semantic search for design files</strong><br/><br/>
+      Built a retrieval engine that lets users search garment designs by meaning, style, and similarity rather than exact keywords alone.<br/><br/>
+      <strong>Stack</strong><br/>
+      Python · SentenceTransformers · FAISS · FastAPI
+      <br/><br/>
+      <details>
+        <summary><strong>More details</strong></summary>
+        <br/>
+        Processed and indexed 25K+ design files.<br/>
+        Used dense embeddings and FAISS for fast similarity search.<br/>
+        Designed for real-time querying through an API-backed retrieval workflow.
+      </details>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Experience
 
-**Noema Consulting**  
-AI / Data Systems  
+### Noema Consulting
+**AI / Data Systems**
+
 Built and improved backend tools, document intelligence workflows, and PII-safe ingestion systems for enterprise-facing use cases.
 
-**Rice University**  
-Robotics / Machine Learning  
-Worked on predictive modeling for mechanical systems using simulation and time-series features, reaching 90%+ accuracy.
+### Rice University
+**Robotics / Machine Learning**
+
+Worked on predictive modeling for mechanical systems using simulation, system behavior, and time-series features, reaching 90%+ accuracy.
 
 ---
 
 ## Contact
 
-linkedin.com/in/raed-karkoub  
-Email: rkarkoub03@gmail.com
+<p>
+  <strong>LinkedIn:</strong>
+  <a href="https://linkedin.com/in/raed-karkoub">linkedin.com/in/raed-karkoub</a>
+  <br/>
+  <strong>Email:</strong>
+  <a href="mailto:rkarkoub03@gmail.com">rkarkoub03@gmail.com</a>
+</p>
