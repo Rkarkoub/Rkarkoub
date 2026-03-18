@@ -1,10 +1,9 @@
-# Raed Karkoub 
-<a href="https://linkedin.com/in/raed-karkoub" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/>
-</a>
-
-![header](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1000&color=E07B54&center=true&vCenter=true&width=800&lines=Builder;Finding+better+ways+to+do+things;Turning+ideas+into+useful+systems)
-
+<h1>
+  Raed Karkoub
+  <a href="https://linkedin.com/in/raed-karkoub">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
+  </a>
+</h1>
 I’m someone who likes finding solutions.
 
 What excites me most about technology is how much you can build with just a computer: a better workflow, a cleaner system, a tool that saves people time, or a product that makes something frustrating feel simple. A lot of the problems I’m drawn to are messy at first; scattered information, inefficient processes, clunky experiences. I enjoy figuring out how to turn them into something practical, fast, and genuinely useful.
